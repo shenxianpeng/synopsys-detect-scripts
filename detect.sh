@@ -14,6 +14,7 @@ get_path_separator() {
 # DETECT_LATEST_RELEASE_VERSION should be set in your
 # environment if you wish to use a version different
 # from LATEST.
+DETECT_LATEST_RELEASE_VERSION='6.9.1'
 DETECT_RELEASE_VERSION=${DETECT_LATEST_RELEASE_VERSION}
 
 # To override the default version key, specify a
